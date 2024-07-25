@@ -1,0 +1,2191 @@
+{
+  "$schema": "http://json.schemastore.org/sarif-1.0.0",
+  "version": "1.0.0",
+  "runs": [
+    {
+      "tool": {
+        "name": "Microsoft (R) Visual C# Compiler",
+        "version": "4.10.0.0",
+        "fileVersion": "4.10.0-3.24314.14 (259e82e9)",
+        "semanticVersion": "4.10.0",
+        "language": "en-GB"
+      },
+      "results": [
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "Non-nullable property 'Id' must contain a non-null value when exiting constructor. Consider declaring the property as nullable.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/hengj/OneDrive/Desktop/SIT/Y2T3/HairyPotterGroup3SSD/Ecommerce_NetCore7_v1.1.1/source-code/Ecommerce/Ecommerce.Domain/Identity/Constants/SuperUserSettings.cs",
+                "region": {
+                  "startLine": 3,
+                  "startColumn": 19,
+                  "endLine": 3,
+                  "endColumn": 21
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/hengj/OneDrive/Desktop/SIT/Y2T3/HairyPotterGroup3SSD/Ecommerce_NetCore7_v1.1.1/source-code/Ecommerce/Ecommerce.Domain/Identity/Constants/SuperUserSettings.cs",
+                "region": {
+                  "startLine": 3,
+                  "startColumn": 19,
+                  "endLine": 3,
+                  "endColumn": 21
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "Non-nullable property 'UserName' must contain a non-null value when exiting constructor. Consider declaring the property as nullable.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/hengj/OneDrive/Desktop/SIT/Y2T3/HairyPotterGroup3SSD/Ecommerce_NetCore7_v1.1.1/source-code/Ecommerce/Ecommerce.Domain/Identity/Constants/SuperUserSettings.cs",
+                "region": {
+                  "startLine": 4,
+                  "startColumn": 19,
+                  "endLine": 4,
+                  "endColumn": 27
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/hengj/OneDrive/Desktop/SIT/Y2T3/HairyPotterGroup3SSD/Ecommerce_NetCore7_v1.1.1/source-code/Ecommerce/Ecommerce.Domain/Identity/Constants/SuperUserSettings.cs",
+                "region": {
+                  "startLine": 4,
+                  "startColumn": 19,
+                  "endLine": 4,
+                  "endColumn": 27
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "Non-nullable property 'Email' must contain a non-null value when exiting constructor. Consider declaring the property as nullable.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/hengj/OneDrive/Desktop/SIT/Y2T3/HairyPotterGroup3SSD/Ecommerce_NetCore7_v1.1.1/source-code/Ecommerce/Ecommerce.Domain/Identity/Constants/SuperUserSettings.cs",
+                "region": {
+                  "startLine": 5,
+                  "startColumn": 19,
+                  "endLine": 5,
+                  "endColumn": 24
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/hengj/OneDrive/Desktop/SIT/Y2T3/HairyPotterGroup3SSD/Ecommerce_NetCore7_v1.1.1/source-code/Ecommerce/Ecommerce.Domain/Identity/Constants/SuperUserSettings.cs",
+                "region": {
+                  "startLine": 5,
+                  "startColumn": 19,
+                  "endLine": 5,
+                  "endColumn": 24
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "Non-nullable property 'FirstName' must contain a non-null value when exiting constructor. Consider declaring the property as nullable.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/hengj/OneDrive/Desktop/SIT/Y2T3/HairyPotterGroup3SSD/Ecommerce_NetCore7_v1.1.1/source-code/Ecommerce/Ecommerce.Domain/Identity/Constants/SuperUserSettings.cs",
+                "region": {
+                  "startLine": 6,
+                  "startColumn": 19,
+                  "endLine": 6,
+                  "endColumn": 28
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/hengj/OneDrive/Desktop/SIT/Y2T3/HairyPotterGroup3SSD/Ecommerce_NetCore7_v1.1.1/source-code/Ecommerce/Ecommerce.Domain/Identity/Constants/SuperUserSettings.cs",
+                "region": {
+                  "startLine": 6,
+                  "startColumn": 19,
+                  "endLine": 6,
+                  "endColumn": 28
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "Non-nullable property 'LastName' must contain a non-null value when exiting constructor. Consider declaring the property as nullable.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/hengj/OneDrive/Desktop/SIT/Y2T3/HairyPotterGroup3SSD/Ecommerce_NetCore7_v1.1.1/source-code/Ecommerce/Ecommerce.Domain/Identity/Constants/SuperUserSettings.cs",
+                "region": {
+                  "startLine": 7,
+                  "startColumn": 19,
+                  "endLine": 7,
+                  "endColumn": 27
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/hengj/OneDrive/Desktop/SIT/Y2T3/HairyPotterGroup3SSD/Ecommerce_NetCore7_v1.1.1/source-code/Ecommerce/Ecommerce.Domain/Identity/Constants/SuperUserSettings.cs",
+                "region": {
+                  "startLine": 7,
+                  "startColumn": 19,
+                  "endLine": 7,
+                  "endColumn": 27
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "Non-nullable property 'ImageId' must contain a non-null value when exiting constructor. Consider declaring the property as nullable.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/hengj/OneDrive/Desktop/SIT/Y2T3/HairyPotterGroup3SSD/Ecommerce_NetCore7_v1.1.1/source-code/Ecommerce/Ecommerce.Domain/Entities/VariantImage.cs",
+                "region": {
+                  "startLine": 5,
+                  "startColumn": 19,
+                  "endLine": 5,
+                  "endColumn": 26
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/hengj/OneDrive/Desktop/SIT/Y2T3/HairyPotterGroup3SSD/Ecommerce_NetCore7_v1.1.1/source-code/Ecommerce/Ecommerce.Domain/Entities/VariantImage.cs",
+                "region": {
+                  "startLine": 5,
+                  "startColumn": 19,
+                  "endLine": 5,
+                  "endColumn": 26
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "Non-nullable property 'Key' must contain a non-null value when exiting constructor. Consider declaring the property as nullable.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/hengj/OneDrive/Desktop/SIT/Y2T3/HairyPotterGroup3SSD/Ecommerce_NetCore7_v1.1.1/source-code/Ecommerce/Ecommerce.Domain/Entities/AppConfiguration.cs",
+                "region": {
+                  "startLine": 8,
+                  "startColumn": 19,
+                  "endLine": 8,
+                  "endColumn": 22
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/hengj/OneDrive/Desktop/SIT/Y2T3/HairyPotterGroup3SSD/Ecommerce_NetCore7_v1.1.1/source-code/Ecommerce/Ecommerce.Domain/Entities/AppConfiguration.cs",
+                "region": {
+                  "startLine": 8,
+                  "startColumn": 19,
+                  "endLine": 8,
+                  "endColumn": 22
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "Non-nullable property 'Value' must contain a non-null value when exiting constructor. Consider declaring the property as nullable.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/hengj/OneDrive/Desktop/SIT/Y2T3/HairyPotterGroup3SSD/Ecommerce_NetCore7_v1.1.1/source-code/Ecommerce/Ecommerce.Domain/Entities/AppConfiguration.cs",
+                "region": {
+                  "startLine": 9,
+                  "startColumn": 19,
+                  "endLine": 9,
+                  "endColumn": 24
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/hengj/OneDrive/Desktop/SIT/Y2T3/HairyPotterGroup3SSD/Ecommerce_NetCore7_v1.1.1/source-code/Ecommerce/Ecommerce.Domain/Entities/AppConfiguration.cs",
+                "region": {
+                  "startLine": 9,
+                  "startColumn": 19,
+                  "endLine": 9,
+                  "endColumn": 24
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "Non-nullable property 'Name' must contain a non-null value when exiting constructor. Consider declaring the property as nullable.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/hengj/OneDrive/Desktop/SIT/Y2T3/HairyPotterGroup3SSD/Ecommerce_NetCore7_v1.1.1/source-code/Ecommerce/Ecommerce.Domain/Entities/Category.cs",
+                "region": {
+                  "startLine": 7,
+                  "startColumn": 19,
+                  "endLine": 7,
+                  "endColumn": 23
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/hengj/OneDrive/Desktop/SIT/Y2T3/HairyPotterGroup3SSD/Ecommerce_NetCore7_v1.1.1/source-code/Ecommerce/Ecommerce.Domain/Entities/Category.cs",
+                "region": {
+                  "startLine": 7,
+                  "startColumn": 19,
+                  "endLine": 7,
+                  "endColumn": 23
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "Non-nullable property 'Slug' must contain a non-null value when exiting constructor. Consider declaring the property as nullable.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/hengj/OneDrive/Desktop/SIT/Y2T3/HairyPotterGroup3SSD/Ecommerce_NetCore7_v1.1.1/source-code/Ecommerce/Ecommerce.Domain/Entities/Category.cs",
+                "region": {
+                  "startLine": 8,
+                  "startColumn": 19,
+                  "endLine": 8,
+                  "endColumn": 23
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/hengj/OneDrive/Desktop/SIT/Y2T3/HairyPotterGroup3SSD/Ecommerce_NetCore7_v1.1.1/source-code/Ecommerce/Ecommerce.Domain/Entities/Category.cs",
+                "region": {
+                  "startLine": 8,
+                  "startColumn": 19,
+                  "endLine": 8,
+                  "endColumn": 23
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "Non-nullable property 'ParentCategory' must contain a non-null value when exiting constructor. Consider declaring the property as nullable.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/hengj/OneDrive/Desktop/SIT/Y2T3/HairyPotterGroup3SSD/Ecommerce_NetCore7_v1.1.1/source-code/Ecommerce/Ecommerce.Domain/Entities/Category.cs",
+                "region": {
+                  "startLine": 10,
+                  "startColumn": 29,
+                  "endLine": 10,
+                  "endColumn": 43
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/hengj/OneDrive/Desktop/SIT/Y2T3/HairyPotterGroup3SSD/Ecommerce_NetCore7_v1.1.1/source-code/Ecommerce/Ecommerce.Domain/Entities/Category.cs",
+                "region": {
+                  "startLine": 10,
+                  "startColumn": 29,
+                  "endLine": 10,
+                  "endColumn": 43
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "Non-nullable property 'Children' must contain a non-null value when exiting constructor. Consider declaring the property as nullable.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/hengj/OneDrive/Desktop/SIT/Y2T3/HairyPotterGroup3SSD/Ecommerce_NetCore7_v1.1.1/source-code/Ecommerce/Ecommerce.Domain/Entities/Category.cs",
+                "region": {
+                  "startLine": 11,
+                  "startColumn": 27,
+                  "endLine": 11,
+                  "endColumn": 35
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/hengj/OneDrive/Desktop/SIT/Y2T3/HairyPotterGroup3SSD/Ecommerce_NetCore7_v1.1.1/source-code/Ecommerce/Ecommerce.Domain/Entities/Category.cs",
+                "region": {
+                  "startLine": 11,
+                  "startColumn": 27,
+                  "endLine": 11,
+                  "endColumn": 35
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "Non-nullable property 'Products' must contain a non-null value when exiting constructor. Consider declaring the property as nullable.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/hengj/OneDrive/Desktop/SIT/Y2T3/HairyPotterGroup3SSD/Ecommerce_NetCore7_v1.1.1/source-code/Ecommerce/Ecommerce.Domain/Entities/Category.cs",
+                "region": {
+                  "startLine": 12,
+                  "startColumn": 26,
+                  "endLine": 12,
+                  "endColumn": 34
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/hengj/OneDrive/Desktop/SIT/Y2T3/HairyPotterGroup3SSD/Ecommerce_NetCore7_v1.1.1/source-code/Ecommerce/Ecommerce.Domain/Entities/Category.cs",
+                "region": {
+                  "startLine": 12,
+                  "startColumn": 26,
+                  "endLine": 12,
+                  "endColumn": 34
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "Non-nullable property 'FullName' must contain a non-null value when exiting constructor. Consider declaring the property as nullable.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/hengj/OneDrive/Desktop/SIT/Y2T3/HairyPotterGroup3SSD/Ecommerce_NetCore7_v1.1.1/source-code/Ecommerce/Ecommerce.Domain/Entities/ContactQuery.cs",
+                "region": {
+                  "startLine": 7,
+                  "startColumn": 19,
+                  "endLine": 7,
+                  "endColumn": 27
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/hengj/OneDrive/Desktop/SIT/Y2T3/HairyPotterGroup3SSD/Ecommerce_NetCore7_v1.1.1/source-code/Ecommerce/Ecommerce.Domain/Entities/ContactQuery.cs",
+                "region": {
+                  "startLine": 7,
+                  "startColumn": 19,
+                  "endLine": 7,
+                  "endColumn": 27
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "Non-nullable property 'Email' must contain a non-null value when exiting constructor. Consider declaring the property as nullable.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/hengj/OneDrive/Desktop/SIT/Y2T3/HairyPotterGroup3SSD/Ecommerce_NetCore7_v1.1.1/source-code/Ecommerce/Ecommerce.Domain/Entities/ContactQuery.cs",
+                "region": {
+                  "startLine": 8,
+                  "startColumn": 19,
+                  "endLine": 8,
+                  "endColumn": 24
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/hengj/OneDrive/Desktop/SIT/Y2T3/HairyPotterGroup3SSD/Ecommerce_NetCore7_v1.1.1/source-code/Ecommerce/Ecommerce.Domain/Entities/ContactQuery.cs",
+                "region": {
+                  "startLine": 8,
+                  "startColumn": 19,
+                  "endLine": 8,
+                  "endColumn": 24
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "Non-nullable property 'Subject' must contain a non-null value when exiting constructor. Consider declaring the property as nullable.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/hengj/OneDrive/Desktop/SIT/Y2T3/HairyPotterGroup3SSD/Ecommerce_NetCore7_v1.1.1/source-code/Ecommerce/Ecommerce.Domain/Entities/ContactQuery.cs",
+                "region": {
+                  "startLine": 9,
+                  "startColumn": 19,
+                  "endLine": 9,
+                  "endColumn": 26
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/hengj/OneDrive/Desktop/SIT/Y2T3/HairyPotterGroup3SSD/Ecommerce_NetCore7_v1.1.1/source-code/Ecommerce/Ecommerce.Domain/Entities/ContactQuery.cs",
+                "region": {
+                  "startLine": 9,
+                  "startColumn": 19,
+                  "endLine": 9,
+                  "endColumn": 26
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "Non-nullable property 'MessageBody' must contain a non-null value when exiting constructor. Consider declaring the property as nullable.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/hengj/OneDrive/Desktop/SIT/Y2T3/HairyPotterGroup3SSD/Ecommerce_NetCore7_v1.1.1/source-code/Ecommerce/Ecommerce.Domain/Entities/ContactQuery.cs",
+                "region": {
+                  "startLine": 10,
+                  "startColumn": 19,
+                  "endLine": 10,
+                  "endColumn": 30
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/hengj/OneDrive/Desktop/SIT/Y2T3/HairyPotterGroup3SSD/Ecommerce_NetCore7_v1.1.1/source-code/Ecommerce/Ecommerce.Domain/Entities/ContactQuery.cs",
+                "region": {
+                  "startLine": 10,
+                  "startColumn": 19,
+                  "endLine": 10,
+                  "endColumn": 30
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "Non-nullable property 'Title' must contain a non-null value when exiting constructor. Consider declaring the property as nullable.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/hengj/OneDrive/Desktop/SIT/Y2T3/HairyPotterGroup3SSD/Ecommerce_NetCore7_v1.1.1/source-code/Ecommerce/Ecommerce.Domain/Entities/Variant.cs",
+                "region": {
+                  "startLine": 7,
+                  "startColumn": 19,
+                  "endLine": 7,
+                  "endColumn": 24
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/hengj/OneDrive/Desktop/SIT/Y2T3/HairyPotterGroup3SSD/Ecommerce_NetCore7_v1.1.1/source-code/Ecommerce/Ecommerce.Domain/Entities/Variant.cs",
+                "region": {
+                  "startLine": 7,
+                  "startColumn": 19,
+                  "endLine": 7,
+                  "endColumn": 24
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "Non-nullable property 'Name' must contain a non-null value when exiting constructor. Consider declaring the property as nullable.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/hengj/OneDrive/Desktop/SIT/Y2T3/HairyPotterGroup3SSD/Ecommerce_NetCore7_v1.1.1/source-code/Ecommerce/Ecommerce.Domain/Entities/Color.cs",
+                "region": {
+                  "startLine": 7,
+                  "startColumn": 19,
+                  "endLine": 7,
+                  "endColumn": 23
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/hengj/OneDrive/Desktop/SIT/Y2T3/HairyPotterGroup3SSD/Ecommerce_NetCore7_v1.1.1/source-code/Ecommerce/Ecommerce.Domain/Entities/Color.cs",
+                "region": {
+                  "startLine": 7,
+                  "startColumn": 19,
+                  "endLine": 7,
+                  "endColumn": 23
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "Non-nullable property 'HexCode' must contain a non-null value when exiting constructor. Consider declaring the property as nullable.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/hengj/OneDrive/Desktop/SIT/Y2T3/HairyPotterGroup3SSD/Ecommerce_NetCore7_v1.1.1/source-code/Ecommerce/Ecommerce.Domain/Entities/Color.cs",
+                "region": {
+                  "startLine": 8,
+                  "startColumn": 19,
+                  "endLine": 8,
+                  "endColumn": 26
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/hengj/OneDrive/Desktop/SIT/Y2T3/HairyPotterGroup3SSD/Ecommerce_NetCore7_v1.1.1/source-code/Ecommerce/Ecommerce.Domain/Entities/Color.cs",
+                "region": {
+                  "startLine": 8,
+                  "startColumn": 19,
+                  "endLine": 8,
+                  "endColumn": 26
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "Non-nullable property 'Comment' must contain a non-null value when exiting constructor. Consider declaring the property as nullable.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/hengj/OneDrive/Desktop/SIT/Y2T3/HairyPotterGroup3SSD/Ecommerce_NetCore7_v1.1.1/source-code/Ecommerce/Ecommerce.Domain/Entities/CustomerReview.cs",
+                "region": {
+                  "startLine": 8,
+                  "startColumn": 19,
+                  "endLine": 8,
+                  "endColumn": 26
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/hengj/OneDrive/Desktop/SIT/Y2T3/HairyPotterGroup3SSD/Ecommerce_NetCore7_v1.1.1/source-code/Ecommerce/Ecommerce.Domain/Entities/CustomerReview.cs",
+                "region": {
+                  "startLine": 8,
+                  "startColumn": 19,
+                  "endLine": 8,
+                  "endColumn": 26
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "Non-nullable property 'Customer' must contain a non-null value when exiting constructor. Consider declaring the property as nullable.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/hengj/OneDrive/Desktop/SIT/Y2T3/HairyPotterGroup3SSD/Ecommerce_NetCore7_v1.1.1/source-code/Ecommerce/Ecommerce.Domain/Entities/CustomerReview.cs",
+                "region": {
+                  "startLine": 14,
+                  "startColumn": 21,
+                  "endLine": 14,
+                  "endColumn": 29
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/hengj/OneDrive/Desktop/SIT/Y2T3/HairyPotterGroup3SSD/Ecommerce_NetCore7_v1.1.1/source-code/Ecommerce/Ecommerce.Domain/Entities/CustomerReview.cs",
+                "region": {
+                  "startLine": 14,
+                  "startColumn": 21,
+                  "endLine": 14,
+                  "endColumn": 29
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "Non-nullable property 'Product' must contain a non-null value when exiting constructor. Consider declaring the property as nullable.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/hengj/OneDrive/Desktop/SIT/Y2T3/HairyPotterGroup3SSD/Ecommerce_NetCore7_v1.1.1/source-code/Ecommerce/Ecommerce.Domain/Entities/CustomerReview.cs",
+                "region": {
+                  "startLine": 16,
+                  "startColumn": 20,
+                  "endLine": 16,
+                  "endColumn": 27
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/hengj/OneDrive/Desktop/SIT/Y2T3/HairyPotterGroup3SSD/Ecommerce_NetCore7_v1.1.1/source-code/Ecommerce/Ecommerce.Domain/Entities/CustomerReview.cs",
+                "region": {
+                  "startLine": 16,
+                  "startColumn": 20,
+                  "endLine": 16,
+                  "endColumn": 27
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "Non-nullable property 'Order' must contain a non-null value when exiting constructor. Consider declaring the property as nullable.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/hengj/OneDrive/Desktop/SIT/Y2T3/HairyPotterGroup3SSD/Ecommerce_NetCore7_v1.1.1/source-code/Ecommerce/Ecommerce.Domain/Entities/CustomerReview.cs",
+                "region": {
+                  "startLine": 18,
+                  "startColumn": 18,
+                  "endLine": 18,
+                  "endColumn": 23
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/hengj/OneDrive/Desktop/SIT/Y2T3/HairyPotterGroup3SSD/Ecommerce_NetCore7_v1.1.1/source-code/Ecommerce/Ecommerce.Domain/Entities/CustomerReview.cs",
+                "region": {
+                  "startLine": 18,
+                  "startColumn": 18,
+                  "endLine": 18,
+                  "endColumn": 23
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "Non-nullable property 'ApplicationUserId' must contain a non-null value when exiting constructor. Consider declaring the property as nullable.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/hengj/OneDrive/Desktop/SIT/Y2T3/HairyPotterGroup3SSD/Ecommerce_NetCore7_v1.1.1/source-code/Ecommerce/Ecommerce.Domain/Entities/Customer.cs",
+                "region": {
+                  "startLine": 10,
+                  "startColumn": 19,
+                  "endLine": 10,
+                  "endColumn": 36
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/hengj/OneDrive/Desktop/SIT/Y2T3/HairyPotterGroup3SSD/Ecommerce_NetCore7_v1.1.1/source-code/Ecommerce/Ecommerce.Domain/Entities/Customer.cs",
+                "region": {
+                  "startLine": 10,
+                  "startColumn": 19,
+                  "endLine": 10,
+                  "endColumn": 36
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "Non-nullable property 'User' must contain a non-null value when exiting constructor. Consider declaring the property as nullable.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/hengj/OneDrive/Desktop/SIT/Y2T3/HairyPotterGroup3SSD/Ecommerce_NetCore7_v1.1.1/source-code/Ecommerce/Ecommerce.Domain/Entities/Customer.cs",
+                "region": {
+                  "startLine": 11,
+                  "startColumn": 28,
+                  "endLine": 11,
+                  "endColumn": 32
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/hengj/OneDrive/Desktop/SIT/Y2T3/HairyPotterGroup3SSD/Ecommerce_NetCore7_v1.1.1/source-code/Ecommerce/Ecommerce.Domain/Entities/Customer.cs",
+                "region": {
+                  "startLine": 11,
+                  "startColumn": 28,
+                  "endLine": 11,
+                  "endColumn": 32
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "Non-nullable property 'Id' must contain a non-null value when exiting constructor. Consider declaring the property as nullable.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/hengj/OneDrive/Desktop/SIT/Y2T3/HairyPotterGroup3SSD/Ecommerce_NetCore7_v1.1.1/source-code/Ecommerce/Ecommerce.Domain/Entities/Gallery.cs",
+                "region": {
+                  "startLine": 6,
+                  "startColumn": 19,
+                  "endLine": 6,
+                  "endColumn": 21
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/hengj/OneDrive/Desktop/SIT/Y2T3/HairyPotterGroup3SSD/Ecommerce_NetCore7_v1.1.1/source-code/Ecommerce/Ecommerce.Domain/Entities/Gallery.cs",
+                "region": {
+                  "startLine": 6,
+                  "startColumn": 19,
+                  "endLine": 6,
+                  "endColumn": 21
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "Non-nullable property 'Name' must contain a non-null value when exiting constructor. Consider declaring the property as nullable.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/hengj/OneDrive/Desktop/SIT/Y2T3/HairyPotterGroup3SSD/Ecommerce_NetCore7_v1.1.1/source-code/Ecommerce/Ecommerce.Domain/Entities/DeliveryMethod.cs",
+                "region": {
+                  "startLine": 7,
+                  "startColumn": 19,
+                  "endLine": 7,
+                  "endColumn": 23
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/hengj/OneDrive/Desktop/SIT/Y2T3/HairyPotterGroup3SSD/Ecommerce_NetCore7_v1.1.1/source-code/Ecommerce/Ecommerce.Domain/Entities/DeliveryMethod.cs",
+                "region": {
+                  "startLine": 7,
+                  "startColumn": 19,
+                  "endLine": 7,
+                  "endColumn": 23
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "Non-nullable property 'UserName' must contain a non-null value when exiting constructor. Consider declaring the property as nullable.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/hengj/OneDrive/Desktop/SIT/Y2T3/HairyPotterGroup3SSD/Ecommerce_NetCore7_v1.1.1/source-code/Ecommerce/Ecommerce.Domain/Entities/User.cs",
+                "region": {
+                  "startLine": 9,
+                  "startColumn": 23,
+                  "endLine": 9,
+                  "endColumn": 31
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/hengj/OneDrive/Desktop/SIT/Y2T3/HairyPotterGroup3SSD/Ecommerce_NetCore7_v1.1.1/source-code/Ecommerce/Ecommerce.Domain/Entities/User.cs",
+                "region": {
+                  "startLine": 9,
+                  "startColumn": 23,
+                  "endLine": 9,
+                  "endColumn": 31
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "Non-nullable property 'NormalizedUserName' must contain a non-null value when exiting constructor. Consider declaring the property as nullable.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/hengj/OneDrive/Desktop/SIT/Y2T3/HairyPotterGroup3SSD/Ecommerce_NetCore7_v1.1.1/source-code/Ecommerce/Ecommerce.Domain/Entities/User.cs",
+                "region": {
+                  "startLine": 10,
+                  "startColumn": 23,
+                  "endLine": 10,
+                  "endColumn": 41
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/hengj/OneDrive/Desktop/SIT/Y2T3/HairyPotterGroup3SSD/Ecommerce_NetCore7_v1.1.1/source-code/Ecommerce/Ecommerce.Domain/Entities/User.cs",
+                "region": {
+                  "startLine": 10,
+                  "startColumn": 23,
+                  "endLine": 10,
+                  "endColumn": 41
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "Non-nullable property 'Email' must contain a non-null value when exiting constructor. Consider declaring the property as nullable.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/hengj/OneDrive/Desktop/SIT/Y2T3/HairyPotterGroup3SSD/Ecommerce_NetCore7_v1.1.1/source-code/Ecommerce/Ecommerce.Domain/Entities/User.cs",
+                "region": {
+                  "startLine": 11,
+                  "startColumn": 23,
+                  "endLine": 11,
+                  "endColumn": 28
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/hengj/OneDrive/Desktop/SIT/Y2T3/HairyPotterGroup3SSD/Ecommerce_NetCore7_v1.1.1/source-code/Ecommerce/Ecommerce.Domain/Entities/User.cs",
+                "region": {
+                  "startLine": 11,
+                  "startColumn": 23,
+                  "endLine": 11,
+                  "endColumn": 28
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "Non-nullable property 'NormalizedEmail' must contain a non-null value when exiting constructor. Consider declaring the property as nullable.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/hengj/OneDrive/Desktop/SIT/Y2T3/HairyPotterGroup3SSD/Ecommerce_NetCore7_v1.1.1/source-code/Ecommerce/Ecommerce.Domain/Entities/User.cs",
+                "region": {
+                  "startLine": 12,
+                  "startColumn": 23,
+                  "endLine": 12,
+                  "endColumn": 38
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/hengj/OneDrive/Desktop/SIT/Y2T3/HairyPotterGroup3SSD/Ecommerce_NetCore7_v1.1.1/source-code/Ecommerce/Ecommerce.Domain/Entities/User.cs",
+                "region": {
+                  "startLine": 12,
+                  "startColumn": 23,
+                  "endLine": 12,
+                  "endColumn": 38
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "Non-nullable property 'PasswordHash' must contain a non-null value when exiting constructor. Consider declaring the property as nullable.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/hengj/OneDrive/Desktop/SIT/Y2T3/HairyPotterGroup3SSD/Ecommerce_NetCore7_v1.1.1/source-code/Ecommerce/Ecommerce.Domain/Entities/User.cs",
+                "region": {
+                  "startLine": 13,
+                  "startColumn": 23,
+                  "endLine": 13,
+                  "endColumn": 35
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/hengj/OneDrive/Desktop/SIT/Y2T3/HairyPotterGroup3SSD/Ecommerce_NetCore7_v1.1.1/source-code/Ecommerce/Ecommerce.Domain/Entities/User.cs",
+                "region": {
+                  "startLine": 13,
+                  "startColumn": 23,
+                  "endLine": 13,
+                  "endColumn": 35
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "Non-nullable property 'SecurityStamp' must contain a non-null value when exiting constructor. Consider declaring the property as nullable.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/hengj/OneDrive/Desktop/SIT/Y2T3/HairyPotterGroup3SSD/Ecommerce_NetCore7_v1.1.1/source-code/Ecommerce/Ecommerce.Domain/Entities/User.cs",
+                "region": {
+                  "startLine": 14,
+                  "startColumn": 23,
+                  "endLine": 14,
+                  "endColumn": 36
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/hengj/OneDrive/Desktop/SIT/Y2T3/HairyPotterGroup3SSD/Ecommerce_NetCore7_v1.1.1/source-code/Ecommerce/Ecommerce.Domain/Entities/User.cs",
+                "region": {
+                  "startLine": 14,
+                  "startColumn": 23,
+                  "endLine": 14,
+                  "endColumn": 36
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "Non-nullable property 'ConcurrencyStamp' must contain a non-null value when exiting constructor. Consider declaring the property as nullable.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/hengj/OneDrive/Desktop/SIT/Y2T3/HairyPotterGroup3SSD/Ecommerce_NetCore7_v1.1.1/source-code/Ecommerce/Ecommerce.Domain/Entities/User.cs",
+                "region": {
+                  "startLine": 15,
+                  "startColumn": 23,
+                  "endLine": 15,
+                  "endColumn": 39
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/hengj/OneDrive/Desktop/SIT/Y2T3/HairyPotterGroup3SSD/Ecommerce_NetCore7_v1.1.1/source-code/Ecommerce/Ecommerce.Domain/Entities/User.cs",
+                "region": {
+                  "startLine": 15,
+                  "startColumn": 23,
+                  "endLine": 15,
+                  "endColumn": 39
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "Non-nullable property 'FirstName' must contain a non-null value when exiting constructor. Consider declaring the property as nullable.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/hengj/OneDrive/Desktop/SIT/Y2T3/HairyPotterGroup3SSD/Ecommerce_NetCore7_v1.1.1/source-code/Ecommerce/Ecommerce.Domain/Entities/User.cs",
+                "region": {
+                  "startLine": 21,
+                  "startColumn": 23,
+                  "endLine": 21,
+                  "endColumn": 32
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/hengj/OneDrive/Desktop/SIT/Y2T3/HairyPotterGroup3SSD/Ecommerce_NetCore7_v1.1.1/source-code/Ecommerce/Ecommerce.Domain/Entities/User.cs",
+                "region": {
+                  "startLine": 21,
+                  "startColumn": 23,
+                  "endLine": 21,
+                  "endColumn": 32
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "Non-nullable property 'LastName' must contain a non-null value when exiting constructor. Consider declaring the property as nullable.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/hengj/OneDrive/Desktop/SIT/Y2T3/HairyPotterGroup3SSD/Ecommerce_NetCore7_v1.1.1/source-code/Ecommerce/Ecommerce.Domain/Entities/User.cs",
+                "region": {
+                  "startLine": 22,
+                  "startColumn": 23,
+                  "endLine": 22,
+                  "endColumn": 31
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/hengj/OneDrive/Desktop/SIT/Y2T3/HairyPotterGroup3SSD/Ecommerce_NetCore7_v1.1.1/source-code/Ecommerce/Ecommerce.Domain/Entities/User.cs",
+                "region": {
+                  "startLine": 22,
+                  "startColumn": 23,
+                  "endLine": 22,
+                  "endColumn": 31
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "Non-nullable property 'Order' must contain a non-null value when exiting constructor. Consider declaring the property as nullable.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/hengj/OneDrive/Desktop/SIT/Y2T3/HairyPotterGroup3SSD/Ecommerce_NetCore7_v1.1.1/source-code/Ecommerce/Ecommerce.Domain/Entities/OrderPayment.cs",
+                "region": {
+                  "startLine": 9,
+                  "startColumn": 18,
+                  "endLine": 9,
+                  "endColumn": 23
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/hengj/OneDrive/Desktop/SIT/Y2T3/HairyPotterGroup3SSD/Ecommerce_NetCore7_v1.1.1/source-code/Ecommerce/Ecommerce.Domain/Entities/OrderPayment.cs",
+                "region": {
+                  "startLine": 9,
+                  "startColumn": 18,
+                  "endLine": 9,
+                  "endColumn": 23
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "Non-nullable property 'PaymentType' must contain a non-null value when exiting constructor. Consider declaring the property as nullable.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/hengj/OneDrive/Desktop/SIT/Y2T3/HairyPotterGroup3SSD/Ecommerce_NetCore7_v1.1.1/source-code/Ecommerce/Ecommerce.Domain/Entities/OrderPayment.cs",
+                "region": {
+                  "startLine": 10,
+                  "startColumn": 19,
+                  "endLine": 10,
+                  "endColumn": 30
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/hengj/OneDrive/Desktop/SIT/Y2T3/HairyPotterGroup3SSD/Ecommerce_NetCore7_v1.1.1/source-code/Ecommerce/Ecommerce.Domain/Entities/OrderPayment.cs",
+                "region": {
+                  "startLine": 10,
+                  "startColumn": 19,
+                  "endLine": 10,
+                  "endColumn": 30
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "Non-nullable property 'Order' must contain a non-null value when exiting constructor. Consider declaring the property as nullable.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/hengj/OneDrive/Desktop/SIT/Y2T3/HairyPotterGroup3SSD/Ecommerce_NetCore7_v1.1.1/source-code/Ecommerce/Ecommerce.Domain/Entities/OrderDetails.cs",
+                "region": {
+                  "startLine": 9,
+                  "startColumn": 18,
+                  "endLine": 9,
+                  "endColumn": 23
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/hengj/OneDrive/Desktop/SIT/Y2T3/HairyPotterGroup3SSD/Ecommerce_NetCore7_v1.1.1/source-code/Ecommerce/Ecommerce.Domain/Entities/OrderDetails.cs",
+                "region": {
+                  "startLine": 9,
+                  "startColumn": 18,
+                  "endLine": 9,
+                  "endColumn": 23
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "Non-nullable property 'ProductName' must contain a non-null value when exiting constructor. Consider declaring the property as nullable.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/hengj/OneDrive/Desktop/SIT/Y2T3/HairyPotterGroup3SSD/Ecommerce_NetCore7_v1.1.1/source-code/Ecommerce/Ecommerce.Domain/Entities/OrderDetails.cs",
+                "region": {
+                  "startLine": 11,
+                  "startColumn": 19,
+                  "endLine": 11,
+                  "endColumn": 30
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/hengj/OneDrive/Desktop/SIT/Y2T3/HairyPotterGroup3SSD/Ecommerce_NetCore7_v1.1.1/source-code/Ecommerce/Ecommerce.Domain/Entities/OrderDetails.cs",
+                "region": {
+                  "startLine": 11,
+                  "startColumn": 19,
+                  "endLine": 11,
+                  "endColumn": 30
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "Non-nullable property 'StatusValue' must contain a non-null value when exiting constructor. Consider declaring the property as nullable.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/hengj/OneDrive/Desktop/SIT/Y2T3/HairyPotterGroup3SSD/Ecommerce_NetCore7_v1.1.1/source-code/Ecommerce/Ecommerce.Domain/Entities/OrderStatusValue.cs",
+                "region": {
+                  "startLine": 7,
+                  "startColumn": 19,
+                  "endLine": 7,
+                  "endColumn": 30
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/hengj/OneDrive/Desktop/SIT/Y2T3/HairyPotterGroup3SSD/Ecommerce_NetCore7_v1.1.1/source-code/Ecommerce/Ecommerce.Domain/Entities/OrderStatusValue.cs",
+                "region": {
+                  "startLine": 7,
+                  "startColumn": 19,
+                  "endLine": 7,
+                  "endColumn": 30
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "Non-nullable property 'Description' must contain a non-null value when exiting constructor. Consider declaring the property as nullable.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/hengj/OneDrive/Desktop/SIT/Y2T3/HairyPotterGroup3SSD/Ecommerce_NetCore7_v1.1.1/source-code/Ecommerce/Ecommerce.Domain/Entities/OrderStatusValue.cs",
+                "region": {
+                  "startLine": 8,
+                  "startColumn": 19,
+                  "endLine": 8,
+                  "endColumn": 30
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/hengj/OneDrive/Desktop/SIT/Y2T3/HairyPotterGroup3SSD/Ecommerce_NetCore7_v1.1.1/source-code/Ecommerce/Ecommerce.Domain/Entities/OrderStatusValue.cs",
+                "region": {
+                  "startLine": 8,
+                  "startColumn": 19,
+                  "endLine": 8,
+                  "endColumn": 30
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "Non-nullable property 'ImageId' must contain a non-null value when exiting constructor. Consider declaring the property as nullable.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/hengj/OneDrive/Desktop/SIT/Y2T3/HairyPotterGroup3SSD/Ecommerce_NetCore7_v1.1.1/source-code/Ecommerce/Ecommerce.Domain/Entities/ProductImage.cs",
+                "region": {
+                  "startLine": 5,
+                  "startColumn": 19,
+                  "endLine": 5,
+                  "endColumn": 26
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/hengj/OneDrive/Desktop/SIT/Y2T3/HairyPotterGroup3SSD/Ecommerce_NetCore7_v1.1.1/source-code/Ecommerce/Ecommerce.Domain/Entities/ProductImage.cs",
+                "region": {
+                  "startLine": 5,
+                  "startColumn": 19,
+                  "endLine": 5,
+                  "endColumn": 26
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "Non-nullable property 'Name' must contain a non-null value when exiting constructor. Consider declaring the property as nullable.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/hengj/OneDrive/Desktop/SIT/Y2T3/HairyPotterGroup3SSD/Ecommerce_NetCore7_v1.1.1/source-code/Ecommerce/Ecommerce.Domain/Entities/Product.cs",
+                "region": {
+                  "startLine": 7,
+                  "startColumn": 19,
+                  "endLine": 7,
+                  "endColumn": 23
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/hengj/OneDrive/Desktop/SIT/Y2T3/HairyPotterGroup3SSD/Ecommerce_NetCore7_v1.1.1/source-code/Ecommerce/Ecommerce.Domain/Entities/Product.cs",
+                "region": {
+                  "startLine": 7,
+                  "startColumn": 19,
+                  "endLine": 7,
+                  "endColumn": 23
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "Non-nullable property 'Slug' must contain a non-null value when exiting constructor. Consider declaring the property as nullable.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/hengj/OneDrive/Desktop/SIT/Y2T3/HairyPotterGroup3SSD/Ecommerce_NetCore7_v1.1.1/source-code/Ecommerce/Ecommerce.Domain/Entities/Product.cs",
+                "region": {
+                  "startLine": 8,
+                  "startColumn": 19,
+                  "endLine": 8,
+                  "endColumn": 23
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/hengj/OneDrive/Desktop/SIT/Y2T3/HairyPotterGroup3SSD/Ecommerce_NetCore7_v1.1.1/source-code/Ecommerce/Ecommerce.Domain/Entities/Product.cs",
+                "region": {
+                  "startLine": 8,
+                  "startColumn": 19,
+                  "endLine": 8,
+                  "endColumn": 23
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "Non-nullable property 'Category' must contain a non-null value when exiting constructor. Consider declaring the property as nullable.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/hengj/OneDrive/Desktop/SIT/Y2T3/HairyPotterGroup3SSD/Ecommerce_NetCore7_v1.1.1/source-code/Ecommerce/Ecommerce.Domain/Entities/Product.cs",
+                "region": {
+                  "startLine": 14,
+                  "startColumn": 21,
+                  "endLine": 14,
+                  "endColumn": 29
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/hengj/OneDrive/Desktop/SIT/Y2T3/HairyPotterGroup3SSD/Ecommerce_NetCore7_v1.1.1/source-code/Ecommerce/Ecommerce.Domain/Entities/Product.cs",
+                "region": {
+                  "startLine": 14,
+                  "startColumn": 21,
+                  "endLine": 14,
+                  "endColumn": 29
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "Non-nullable property 'Name' must contain a non-null value when exiting constructor. Consider declaring the property as nullable.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/hengj/OneDrive/Desktop/SIT/Y2T3/HairyPotterGroup3SSD/Ecommerce_NetCore7_v1.1.1/source-code/Ecommerce/Ecommerce.Domain/Entities/Size.cs",
+                "region": {
+                  "startLine": 7,
+                  "startColumn": 19,
+                  "endLine": 7,
+                  "endColumn": 23
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/hengj/OneDrive/Desktop/SIT/Y2T3/HairyPotterGroup3SSD/Ecommerce_NetCore7_v1.1.1/source-code/Ecommerce/Ecommerce.Domain/Entities/Size.cs",
+                "region": {
+                  "startLine": 7,
+                  "startColumn": 19,
+                  "endLine": 7,
+                  "endColumn": 23
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8603",
+          "level": "warning",
+          "message": "Possible null reference return.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/hengj/OneDrive/Desktop/SIT/Y2T3/HairyPotterGroup3SSD/Ecommerce_NetCore7_v1.1.1/source-code/Ecommerce/Ecommerce.Domain/Common/Response.cs",
+                "region": {
+                  "startLine": 71,
+                  "startColumn": 16,
+                  "endLine": 71,
+                  "endColumn": 127
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8603",
+          "level": "warning",
+          "message": "Possible null reference return.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/hengj/OneDrive/Desktop/SIT/Y2T3/HairyPotterGroup3SSD/Ecommerce_NetCore7_v1.1.1/source-code/Ecommerce/Ecommerce.Domain/Common/Response1.cs",
+                "region": {
+                  "startLine": 71,
+                  "startColumn": 16,
+                  "endLine": 71,
+                  "endColumn": 127
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8603",
+          "level": "warning",
+          "message": "Possible null reference return.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/hengj/OneDrive/Desktop/SIT/Y2T3/HairyPotterGroup3SSD/Ecommerce_NetCore7_v1.1.1/source-code/Ecommerce/Ecommerce.Domain/Common/IdentityResponse.cs",
+                "region": {
+                  "startLine": 57,
+                  "startColumn": 16,
+                  "endLine": 57,
+                  "endColumn": 127
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8604",
+          "level": "warning",
+          "message": "Possible null reference argument for parameter 'value' in 'Claim.Claim(string type, string value)'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/hengj/OneDrive/Desktop/SIT/Y2T3/HairyPotterGroup3SSD/Ecommerce_NetCore7_v1.1.1/source-code/Ecommerce/Ecommerce.Domain/Identity/Constants/DefaultApplicationRoles.cs",
+                "region": {
+                  "startLine": 29,
+                  "startColumn": 70,
+                  "endLine": 29,
+                  "endColumn": 79
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "Non-nullable property 'InvoiceNo' must contain a non-null value when exiting constructor. Consider declaring the property as nullable.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/hengj/OneDrive/Desktop/SIT/Y2T3/HairyPotterGroup3SSD/Ecommerce_NetCore7_v1.1.1/source-code/Ecommerce/Ecommerce.Domain/Entities/Order.cs",
+                "region": {
+                  "startLine": 8,
+                  "startColumn": 19,
+                  "endLine": 8,
+                  "endColumn": 28
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/hengj/OneDrive/Desktop/SIT/Y2T3/HairyPotterGroup3SSD/Ecommerce_NetCore7_v1.1.1/source-code/Ecommerce/Ecommerce.Domain/Entities/Order.cs",
+                "region": {
+                  "startLine": 8,
+                  "startColumn": 19,
+                  "endLine": 8,
+                  "endColumn": 28
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "Non-nullable property 'Customer' must contain a non-null value when exiting constructor. Consider declaring the property as nullable.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/hengj/OneDrive/Desktop/SIT/Y2T3/HairyPotterGroup3SSD/Ecommerce_NetCore7_v1.1.1/source-code/Ecommerce/Ecommerce.Domain/Entities/Order.cs",
+                "region": {
+                  "startLine": 10,
+                  "startColumn": 21,
+                  "endLine": 10,
+                  "endColumn": 29
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/hengj/OneDrive/Desktop/SIT/Y2T3/HairyPotterGroup3SSD/Ecommerce_NetCore7_v1.1.1/source-code/Ecommerce/Ecommerce.Domain/Entities/Order.cs",
+                "region": {
+                  "startLine": 10,
+                  "startColumn": 21,
+                  "endLine": 10,
+                  "endColumn": 29
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "Non-nullable property 'DeliveryMethod' must contain a non-null value when exiting constructor. Consider declaring the property as nullable.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/hengj/OneDrive/Desktop/SIT/Y2T3/HairyPotterGroup3SSD/Ecommerce_NetCore7_v1.1.1/source-code/Ecommerce/Ecommerce.Domain/Entities/Order.cs",
+                "region": {
+                  "startLine": 13,
+                  "startColumn": 27,
+                  "endLine": 13,
+                  "endColumn": 41
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/hengj/OneDrive/Desktop/SIT/Y2T3/HairyPotterGroup3SSD/Ecommerce_NetCore7_v1.1.1/source-code/Ecommerce/Ecommerce.Domain/Entities/Order.cs",
+                "region": {
+                  "startLine": 13,
+                  "startColumn": 27,
+                  "endLine": 13,
+                  "endColumn": 41
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "Non-nullable property 'PaymentMethod' must contain a non-null value when exiting constructor. Consider declaring the property as nullable.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/hengj/OneDrive/Desktop/SIT/Y2T3/HairyPotterGroup3SSD/Ecommerce_NetCore7_v1.1.1/source-code/Ecommerce/Ecommerce.Domain/Entities/Order.cs",
+                "region": {
+                  "startLine": 15,
+                  "startColumn": 19,
+                  "endLine": 15,
+                  "endColumn": 32
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/hengj/OneDrive/Desktop/SIT/Y2T3/HairyPotterGroup3SSD/Ecommerce_NetCore7_v1.1.1/source-code/Ecommerce/Ecommerce.Domain/Entities/Order.cs",
+                "region": {
+                  "startLine": 15,
+                  "startColumn": 19,
+                  "endLine": 15,
+                  "endColumn": 32
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "Non-nullable property 'PaymentStatus' must contain a non-null value when exiting constructor. Consider declaring the property as nullable.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/hengj/OneDrive/Desktop/SIT/Y2T3/HairyPotterGroup3SSD/Ecommerce_NetCore7_v1.1.1/source-code/Ecommerce/Ecommerce.Domain/Entities/Order.cs",
+                "region": {
+                  "startLine": 16,
+                  "startColumn": 19,
+                  "endLine": 16,
+                  "endColumn": 32
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/hengj/OneDrive/Desktop/SIT/Y2T3/HairyPotterGroup3SSD/Ecommerce_NetCore7_v1.1.1/source-code/Ecommerce/Ecommerce.Domain/Entities/Order.cs",
+                "region": {
+                  "startLine": 16,
+                  "startColumn": 19,
+                  "endLine": 16,
+                  "endColumn": 32
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "Non-nullable property 'CustomerName' must contain a non-null value when exiting constructor. Consider declaring the property as nullable.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/hengj/OneDrive/Desktop/SIT/Y2T3/HairyPotterGroup3SSD/Ecommerce_NetCore7_v1.1.1/source-code/Ecommerce/Ecommerce.Domain/Entities/Order.cs",
+                "region": {
+                  "startLine": 17,
+                  "startColumn": 19,
+                  "endLine": 17,
+                  "endColumn": 31
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/hengj/OneDrive/Desktop/SIT/Y2T3/HairyPotterGroup3SSD/Ecommerce_NetCore7_v1.1.1/source-code/Ecommerce/Ecommerce.Domain/Entities/Order.cs",
+                "region": {
+                  "startLine": 17,
+                  "startColumn": 19,
+                  "endLine": 17,
+                  "endColumn": 31
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "Non-nullable property 'ShippingAddress' must contain a non-null value when exiting constructor. Consider declaring the property as nullable.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/hengj/OneDrive/Desktop/SIT/Y2T3/HairyPotterGroup3SSD/Ecommerce_NetCore7_v1.1.1/source-code/Ecommerce/Ecommerce.Domain/Entities/Order.cs",
+                "region": {
+                  "startLine": 18,
+                  "startColumn": 19,
+                  "endLine": 18,
+                  "endColumn": 34
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/hengj/OneDrive/Desktop/SIT/Y2T3/HairyPotterGroup3SSD/Ecommerce_NetCore7_v1.1.1/source-code/Ecommerce/Ecommerce.Domain/Entities/Order.cs",
+                "region": {
+                  "startLine": 18,
+                  "startColumn": 19,
+                  "endLine": 18,
+                  "endColumn": 34
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "Non-nullable property 'CustomerMobile' must contain a non-null value when exiting constructor. Consider declaring the property as nullable.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/hengj/OneDrive/Desktop/SIT/Y2T3/HairyPotterGroup3SSD/Ecommerce_NetCore7_v1.1.1/source-code/Ecommerce/Ecommerce.Domain/Entities/Order.cs",
+                "region": {
+                  "startLine": 19,
+                  "startColumn": 19,
+                  "endLine": 19,
+                  "endColumn": 33
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/hengj/OneDrive/Desktop/SIT/Y2T3/HairyPotterGroup3SSD/Ecommerce_NetCore7_v1.1.1/source-code/Ecommerce/Ecommerce.Domain/Entities/Order.cs",
+                "region": {
+                  "startLine": 19,
+                  "startColumn": 19,
+                  "endLine": 19,
+                  "endColumn": 33
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "Non-nullable property 'CustomerEmail' must contain a non-null value when exiting constructor. Consider declaring the property as nullable.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/hengj/OneDrive/Desktop/SIT/Y2T3/HairyPotterGroup3SSD/Ecommerce_NetCore7_v1.1.1/source-code/Ecommerce/Ecommerce.Domain/Entities/Order.cs",
+                "region": {
+                  "startLine": 20,
+                  "startColumn": 19,
+                  "endLine": 20,
+                  "endColumn": 32
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/hengj/OneDrive/Desktop/SIT/Y2T3/HairyPotterGroup3SSD/Ecommerce_NetCore7_v1.1.1/source-code/Ecommerce/Ecommerce.Domain/Entities/Order.cs",
+                "region": {
+                  "startLine": 20,
+                  "startColumn": 19,
+                  "endLine": 20,
+                  "endColumn": 32
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "Non-nullable property 'OrderPayments' must contain a non-null value when exiting constructor. Consider declaring the property as nullable.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/hengj/OneDrive/Desktop/SIT/Y2T3/HairyPotterGroup3SSD/Ecommerce_NetCore7_v1.1.1/source-code/Ecommerce/Ecommerce.Domain/Entities/Order.cs",
+                "region": {
+                  "startLine": 27,
+                  "startColumn": 25,
+                  "endLine": 27,
+                  "endColumn": 38
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/hengj/OneDrive/Desktop/SIT/Y2T3/HairyPotterGroup3SSD/Ecommerce_NetCore7_v1.1.1/source-code/Ecommerce/Ecommerce.Domain/Entities/Order.cs",
+                "region": {
+                  "startLine": 27,
+                  "startColumn": 25,
+                  "endLine": 27,
+                  "endColumn": 38
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CA1050",
+          "level": "note",
+          "message": "Declare types in namespaces",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/hengj/OneDrive/Desktop/SIT/Y2T3/HairyPotterGroup3SSD/Ecommerce_NetCore7_v1.1.1/source-code/Ecommerce/Ecommerce.Domain/Identity/Constants/SuperUserSettings.cs",
+                "region": {
+                  "startLine": 1,
+                  "startColumn": 14,
+                  "endLine": 1,
+                  "endColumn": 31
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CA2211",
+          "level": "note",
+          "message": "Non-constant fields should not be visible",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/hengj/OneDrive/Desktop/SIT/Y2T3/HairyPotterGroup3SSD/Ecommerce_NetCore7_v1.1.1/source-code/Ecommerce/Ecommerce.Domain/Constants/AppMemoryCache.cs",
+                "region": {
+                  "startLine": 5,
+                  "startColumn": 26,
+                  "endLine": 5,
+                  "endColumn": 42
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        }
+      ],
+      "rules": {
+        "CA1050": {
+          "id": "CA1050",
+          "shortDescription": "Declare types in namespaces",
+          "fullDescription": "Types are declared in namespaces to prevent name collisions and as a way to organize related types in an object hierarchy.",
+          "defaultLevel": "note",
+          "helpUri": "https://learn.microsoft.com/dotnet/fundamentals/code-analysis/quality-rules/ca1050",
+          "properties": {
+            "category": "Design",
+            "isEnabledByDefault": true,
+            "tags": [
+              "PortedFromFxCop",
+              "Telemetry",
+              "EnabledRuleInAggressiveMode"
+            ]
+          }
+        },
+        "CA2211": {
+          "id": "CA2211",
+          "shortDescription": "Non-constant fields should not be visible",
+          "fullDescription": "Static fields that are neither constants nor read-only are not thread-safe. Access to such a field must be carefully controlled and requires advanced programming techniques to synchronize access to the class object.",
+          "defaultLevel": "note",
+          "helpUri": "https://learn.microsoft.com/dotnet/fundamentals/code-analysis/quality-rules/ca2211",
+          "properties": {
+            "category": "Usage",
+            "isEnabledByDefault": true,
+            "tags": [
+              "PortedFromFxCop",
+              "Telemetry",
+              "EnabledRuleInAggressiveMode"
+            ]
+          }
+        },
+        "CS8603": {
+          "id": "CS8603",
+          "shortDescription": "Possible null reference return.",
+          "defaultLevel": "warning",
+          "helpUri": "https://msdn.microsoft.com/query/roslyn.query?appId=roslyn&k=k(CS8603)",
+          "properties": {
+            "category": "Compiler",
+            "isEnabledByDefault": true,
+            "tags": [
+              "Compiler",
+              "Telemetry"
+            ]
+          }
+        },
+        "CS8604": {
+          "id": "CS8604",
+          "shortDescription": "Possible null reference argument.",
+          "defaultLevel": "warning",
+          "helpUri": "https://msdn.microsoft.com/query/roslyn.query?appId=roslyn&k=k(CS8604)",
+          "properties": {
+            "category": "Compiler",
+            "isEnabledByDefault": true,
+            "tags": [
+              "Compiler",
+              "Telemetry"
+            ]
+          }
+        },
+        "CS8618": {
+          "id": "CS8618",
+          "shortDescription": "Non-nullable field must contain a non-null value when exiting constructor. Consider declaring as nullable.",
+          "defaultLevel": "warning",
+          "helpUri": "https://msdn.microsoft.com/query/roslyn.query?appId=roslyn&k=k(CS8618)",
+          "properties": {
+            "category": "Compiler",
+            "isEnabledByDefault": true,
+            "tags": [
+              "Compiler",
+              "Telemetry"
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

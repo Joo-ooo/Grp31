@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ProjectInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.sonarsource.com/msbuild/integration/2015/1">
+  <ProjectName>Ecommerce.Web.Mvc</ProjectName>
+  <ProjectLanguage>C#</ProjectLanguage>
+  <ProjectType>Test</ProjectType>
+  <ProjectGuid>348a8cff-f972-42dd-bf96-58891ca3d151</ProjectGuid>
+  <FullPath>C:\Users\hengj\OneDrive\Desktop\SIT\Y2T3\HairyPotterGroup3SSD\Ecommerce_NetCore7_v1.1.1\source-code\Ecommerce\Ecommerce.Web.Mvc\Ecommerce.Web.Mvc.csproj</FullPath>
+  <IsExcluded>false</IsExcluded>
+  <AnalysisResults>
+    <AnalysisResult Id="FilesToAnalyze" Location="C:\Users\hengj\OneDrive\Desktop\SIT\Y2T3\HairyPotterGroup3SSD\Ecommerce_NetCore7_v1.1.1\source-code\Ecommerce\.sonarqube\conf\3\FilesToAnalyze.txt" />
+  </AnalysisResults>
+  <AnalysisSettings>
+    <Property Name="sonar.cs.roslyn.reportFilePaths">C:\Users\hengj\OneDrive\Desktop\SIT\Y2T3\HairyPotterGroup3SSD\Ecommerce_NetCore7_v1.1.1\source-code\Ecommerce\.sonarqube\out\3\Issues.json</Property>
+    <Property Name="sonar.cs.analyzer.projectOutPaths">C:\Users\hengj\OneDrive\Desktop\SIT\Y2T3\HairyPotterGroup3SSD\Ecommerce_NetCore7_v1.1.1\source-code\Ecommerce\.sonarqube\out\3</Property>
+  </AnalysisSettings>
+  <Configuration>Debug</Configuration>
+  <Platform>AnyCPU</Platform>
+  <TargetFramework>net7.0</TargetFramework>
+</ProjectInfo>

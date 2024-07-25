@@ -1,0 +1,11 @@
+∫
+ÆC:\Users\hengj\OneDrive\Desktop\SIT\Y2T3\HairyPotterGroup3SSD\Ecommerce_NetCore7_v1.1.1\source-code\Ecommerce\Ecommerce.Tests\obj\Debug\net7.0\Ecommerce.Tests.AssemblyInfo.csutf-8…
+ΩC:\Users\hengj\OneDrive\Desktop\SIT\Y2T3\HairyPotterGroup3SSD\Ecommerce_NetCore7_v1.1.1\source-code\Ecommerce\Ecommerce.Tests\obj\Debug\net7.0\.NETCoreApp,Version=v7.0.AssemblyAttributes.csutf-8º
+∞C:\Users\hengj\OneDrive\Desktop\SIT\Y2T3\HairyPotterGroup3SSD\Ecommerce_NetCore7_v1.1.1\source-code\Ecommerce\Ecommerce.Tests\obj\Debug\net7.0\Ecommerce.Tests.GlobalUsings.g.csutf-8}
+rC:\Users\hengj\.nuget\packages\microsoft.net.test.sdk\17.4.0\build\netcoreapp3.1\Microsoft.NET.Test.Sdk.Program.csutf-8ë
+áC:\Users\hengj\OneDrive\Desktop\SIT\Y2T3\HairyPotterGroup3SSD\Ecommerce_NetCore7_v1.1.1\source-code\Ecommerce\Ecommerce.Tests\Usings.csutf-8û
+îC:\Users\hengj\OneDrive\Desktop\SIT\Y2T3\HairyPotterGroup3SSD\Ecommerce_NetCore7_v1.1.1\source-code\Ecommerce\Ecommerce.Tests\SessionTimeoutTests.csutf-8ô
+èC:\Users\hengj\OneDrive\Desktop\SIT\Y2T3\HairyPotterGroup3SSD\Ecommerce_NetCore7_v1.1.1\source-code\Ecommerce\Ecommerce.Tests\RateLimitTests.csutf-8°
+óC:\Users\hengj\OneDrive\Desktop\SIT\Y2T3\HairyPotterGroup3SSD\Ecommerce_NetCore7_v1.1.1\source-code\Ecommerce\Ecommerce.Tests\ProductControllerTests.csutf-8ü
+ïC:\Users\hengj\OneDrive\Desktop\SIT\Y2T3\HairyPotterGroup3SSD\Ecommerce_NetCore7_v1.1.1\source-code\Ecommerce\Ecommerce.Tests\OrderControllerTests.csutf-8ú
+íC:\Users\hengj\OneDrive\Desktop\SIT\Y2T3\HairyPotterGroup3SSD\Ecommerce_NetCore7_v1.1.1\source-code\Ecommerce\Ecommerce.Tests\MyControllerTests.csutf-8

@@ -1,0 +1,417 @@
+{
+  "$schema": "http://json.schemastore.org/sarif-1.0.0",
+  "version": "1.0.0",
+  "runs": [
+    {
+      "tool": {
+        "name": "Microsoft (R) Visual C# Compiler",
+        "version": "4.10.0.0",
+        "fileVersion": "4.10.0-3.24314.14 (259e82e9)",
+        "semanticVersion": "4.10.0",
+        "language": "en-GB"
+      },
+      "results": [
+        {
+          "ruleId": "CS8767",
+          "level": "warning",
+          "message": "Nullability of reference types in type of parameter 'value' of 'void TestHttpResponseFeature.ReasonPhrase.set' doesn't match implicitly implemented member 'void IHttpResponseFeature.ReasonPhrase.set' (possibly because of nullability attributes).",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/hengj/OneDrive/Desktop/SIT/Y2T3/HairyPotterGroup3SSD/Ecommerce_NetCore7_v1.1.1/source-code/Ecommerce/Ecommerce.Tests/SessionTimeoutTests.cs",
+                "region": {
+                  "startLine": 156,
+                  "startColumn": 47,
+                  "endLine": 156,
+                  "endColumn": 50
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8625",
+          "level": "warning",
+          "message": "Cannot convert null literal to non-nullable reference type.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/hengj/OneDrive/Desktop/SIT/Y2T3/HairyPotterGroup3SSD/Ecommerce_NetCore7_v1.1.1/source-code/Ecommerce/Ecommerce.Tests/MyControllerTests.cs",
+                "region": {
+                  "startLine": 53,
+                  "startColumn": 17,
+                  "endLine": 53,
+                  "endColumn": 21
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8600",
+          "level": "warning",
+          "message": "Converting null literal or possible null value to non-nullable type.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/hengj/OneDrive/Desktop/SIT/Y2T3/HairyPotterGroup3SSD/Ecommerce_NetCore7_v1.1.1/source-code/Ecommerce/Ecommerce.Tests/SessionTimeoutTests.cs",
+                "region": {
+                  "startLine": 57,
+                  "startColumn": 74,
+                  "endLine": 57,
+                  "endColumn": 91
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8600",
+          "level": "warning",
+          "message": "Converting null literal or possible null value to non-nullable type.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/hengj/OneDrive/Desktop/SIT/Y2T3/HairyPotterGroup3SSD/Ecommerce_NetCore7_v1.1.1/source-code/Ecommerce/Ecommerce.Tests/SessionTimeoutTests.cs",
+                "region": {
+                  "startLine": 75,
+                  "startColumn": 74,
+                  "endLine": 75,
+                  "endColumn": 91
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8602",
+          "level": "warning",
+          "message": "Dereference of a possibly null reference.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/hengj/OneDrive/Desktop/SIT/Y2T3/HairyPotterGroup3SSD/Ecommerce_NetCore7_v1.1.1/source-code/Ecommerce/Ecommerce.Tests/MyControllerTests.cs",
+                "region": {
+                  "startLine": 140,
+                  "startColumn": 29,
+                  "endLine": 140,
+                  "endColumn": 70
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8600",
+          "level": "warning",
+          "message": "Converting null literal or possible null value to non-nullable type.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/hengj/OneDrive/Desktop/SIT/Y2T3/HairyPotterGroup3SSD/Ecommerce_NetCore7_v1.1.1/source-code/Ecommerce/Ecommerce.Tests/SessionTimeoutTests.cs",
+                "region": {
+                  "startLine": 91,
+                  "startColumn": 31,
+                  "endLine": 91,
+                  "endColumn": 35
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8600",
+          "level": "warning",
+          "message": "Converting null literal or possible null value to non-nullable type.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/hengj/OneDrive/Desktop/SIT/Y2T3/HairyPotterGroup3SSD/Ecommerce_NetCore7_v1.1.1/source-code/Ecommerce/Ecommerce.Tests/SessionTimeoutTests.cs",
+                "region": {
+                  "startLine": 93,
+                  "startColumn": 74,
+                  "endLine": 93,
+                  "endColumn": 82
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8602",
+          "level": "warning",
+          "message": "Dereference of a possibly null reference.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/hengj/OneDrive/Desktop/SIT/Y2T3/HairyPotterGroup3SSD/Ecommerce_NetCore7_v1.1.1/source-code/Ecommerce/Ecommerce.Tests/ProductControllerTests.cs",
+                "region": {
+                  "startLine": 151,
+                  "startColumn": 29,
+                  "endLine": 151,
+                  "endColumn": 59
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8600",
+          "level": "warning",
+          "message": "Converting null literal or possible null value to non-nullable type.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/hengj/OneDrive/Desktop/SIT/Y2T3/HairyPotterGroup3SSD/Ecommerce_NetCore7_v1.1.1/source-code/Ecommerce/Ecommerce.Tests/SessionTimeoutTests.cs",
+                "region": {
+                  "startLine": 116,
+                  "startColumn": 31,
+                  "endLine": 116,
+                  "endColumn": 35
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8600",
+          "level": "warning",
+          "message": "Converting null literal or possible null value to non-nullable type.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/hengj/OneDrive/Desktop/SIT/Y2T3/HairyPotterGroup3SSD/Ecommerce_NetCore7_v1.1.1/source-code/Ecommerce/Ecommerce.Tests/SessionTimeoutTests.cs",
+                "region": {
+                  "startLine": 118,
+                  "startColumn": 74,
+                  "endLine": 118,
+                  "endColumn": 82
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "Non-nullable property 'ReasonPhrase' must contain a non-null value when exiting constructor. Consider declaring the property as nullable.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/hengj/OneDrive/Desktop/SIT/Y2T3/HairyPotterGroup3SSD/Ecommerce_NetCore7_v1.1.1/source-code/Ecommerce/Ecommerce.Tests/SessionTimeoutTests.cs",
+                "region": {
+                  "startLine": 147,
+                  "startColumn": 20,
+                  "endLine": 147,
+                  "endColumn": 43
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/hengj/OneDrive/Desktop/SIT/Y2T3/HairyPotterGroup3SSD/Ecommerce_NetCore7_v1.1.1/source-code/Ecommerce/Ecommerce.Tests/SessionTimeoutTests.cs",
+                "region": {
+                  "startLine": 156,
+                  "startColumn": 27,
+                  "endLine": 156,
+                  "endColumn": 39
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8602",
+          "level": "warning",
+          "message": "Dereference of a possibly null reference.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/hengj/OneDrive/Desktop/SIT/Y2T3/HairyPotterGroup3SSD/Ecommerce_NetCore7_v1.1.1/source-code/Ecommerce/Ecommerce.Tests/MyControllerTests.cs",
+                "region": {
+                  "startLine": 210,
+                  "startColumn": 29,
+                  "endLine": 210,
+                  "endColumn": 62
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8602",
+          "level": "warning",
+          "message": "Dereference of a possibly null reference.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/hengj/OneDrive/Desktop/SIT/Y2T3/HairyPotterGroup3SSD/Ecommerce_NetCore7_v1.1.1/source-code/Ecommerce/Ecommerce.Tests/MyControllerTests.cs",
+                "region": {
+                  "startLine": 239,
+                  "startColumn": 29,
+                  "endLine": 239,
+                  "endColumn": 65
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8602",
+          "level": "warning",
+          "message": "Dereference of a possibly null reference.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/hengj/OneDrive/Desktop/SIT/Y2T3/HairyPotterGroup3SSD/Ecommerce_NetCore7_v1.1.1/source-code/Ecommerce/Ecommerce.Tests/MyControllerTests.cs",
+                "region": {
+                  "startLine": 308,
+                  "startColumn": 29,
+                  "endLine": 308,
+                  "endColumn": 65
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8602",
+          "level": "warning",
+          "message": "Dereference of a possibly null reference.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/hengj/OneDrive/Desktop/SIT/Y2T3/HairyPotterGroup3SSD/Ecommerce_NetCore7_v1.1.1/source-code/Ecommerce/Ecommerce.Tests/MyControllerTests.cs",
+                "region": {
+                  "startLine": 335,
+                  "startColumn": 29,
+                  "endLine": 335,
+                  "endColumn": 65
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        }
+      ],
+      "rules": {
+        "CS8600": {
+          "id": "CS8600",
+          "shortDescription": "Converting null literal or possible null value to non-nullable type.",
+          "defaultLevel": "warning",
+          "helpUri": "https://msdn.microsoft.com/query/roslyn.query?appId=roslyn&k=k(CS8600)",
+          "properties": {
+            "category": "Compiler",
+            "isEnabledByDefault": true,
+            "tags": [
+              "Compiler",
+              "Telemetry"
+            ]
+          }
+        },
+        "CS8602": {
+          "id": "CS8602",
+          "shortDescription": "Dereference of a possibly null reference.",
+          "defaultLevel": "warning",
+          "helpUri": "https://msdn.microsoft.com/query/roslyn.query?appId=roslyn&k=k(CS8602)",
+          "properties": {
+            "category": "Compiler",
+            "isEnabledByDefault": true,
+            "tags": [
+              "Compiler",
+              "Telemetry"
+            ]
+          }
+        },
+        "CS8618": {
+          "id": "CS8618",
+          "shortDescription": "Non-nullable field must contain a non-null value when exiting constructor. Consider declaring as nullable.",
+          "defaultLevel": "warning",
+          "helpUri": "https://msdn.microsoft.com/query/roslyn.query?appId=roslyn&k=k(CS8618)",
+          "properties": {
+            "category": "Compiler",
+            "isEnabledByDefault": true,
+            "tags": [
+              "Compiler",
+              "Telemetry"
+            ]
+          }
+        },
+        "CS8625": {
+          "id": "CS8625",
+          "shortDescription": "Cannot convert null literal to non-nullable reference type.",
+          "defaultLevel": "warning",
+          "helpUri": "https://msdn.microsoft.com/query/roslyn.query?appId=roslyn&k=k(CS8625)",
+          "properties": {
+            "category": "Compiler",
+            "isEnabledByDefault": true,
+            "tags": [
+              "Compiler",
+              "Telemetry"
+            ]
+          }
+        },
+        "CS8767": {
+          "id": "CS8767",
+          "shortDescription": "Nullability of reference types in type of parameter doesn't match implicitly implemented member (possibly because of nullability attributes).",
+          "defaultLevel": "warning",
+          "helpUri": "https://msdn.microsoft.com/query/roslyn.query?appId=roslyn&k=k(CS8767)",
+          "properties": {
+            "category": "Compiler",
+            "isEnabledByDefault": true,
+            "tags": [
+              "Compiler",
+              "Telemetry"
+            ]
+          }
+        }
+      }
+    }
+  ]
+}
