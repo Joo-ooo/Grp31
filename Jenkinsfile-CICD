@@ -3,7 +3,7 @@ pipeline {
 
 
   environment {
-    GIT_TOKEN = credentials('Cred-GitHub_Webhook_motorfireman')
+    /* GIT_TOKEN = credentials('Cred-GitHub_Webhook_motorfireman') */
     PUBLIC_JENKINS_URL_PORT = "ict2216g3.ddns.net:8080"
     SSH_USERNAME = "student11"
     SSH_HOST = "172.50.51.1"
