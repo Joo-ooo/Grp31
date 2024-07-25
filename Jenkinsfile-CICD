@@ -35,8 +35,7 @@ pipeline {
       }
     }
 
-/*
-NOT IN USE
+
     stage('Code Quality Check via SonarQube') {
       steps {
         withCredentials(([string(credentialsId: 'Cred-TelegramBot', variable: 'TOKEN'),
@@ -51,7 +50,7 @@ NOT IN USE
         }
       }
     }
-*/
+
 
     stage('Restore packages'){
       steps{
